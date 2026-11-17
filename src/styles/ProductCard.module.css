@@ -3,3 +3,14 @@
 /* TODO (optional): Add special styling for out-of-stock products */
 
 /* TODO (optional): Style the add/remove button */
+.card {
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 300px;
+}
+
+.outOfStock {
+  opacity: 0.5;
+}
